@@ -1,0 +1,9 @@
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Application2\bin\Debug\Application2.pdb
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Application2\obj\Debug\3. Application2.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Naming identifiers\Naming Identifiers Homework\Application2\bin\Debug\Application2.exe.config
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Naming identifiers\Naming Identifiers Homework\Application2\obj\Debug\Application2.exe
+C:\Users\PC-PC\Desktop\Homework-nasun4o-Naming identifiers\Naming Identifiers Homework\Application2\obj\Debug\Application2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Orders\obj\Debug\2. Orders.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+C:\Users\Nasko\Desktop\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb
